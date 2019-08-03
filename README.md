@@ -20,11 +20,15 @@ Android tests | Python unit tests | A/B tests
 
 CONTRIBUTERS
 
--Eric TSANG
--Eric YU
--Kin LEUNG
--Cyrus LEE
--Tommy WONG
+1.Cyrus LEE
+
+2.Eric TSANG
+
+3.Eric YU
+
+4.Kin LEUNG
+
+5.Tommy WONG
 
 LICENSE
 
